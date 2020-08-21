@@ -25,7 +25,7 @@
 
 Почти все паттерны в какой-то мере используют наследование. Поэтому к категории «паттерны классов» отнесены только те, что сфокусированы лишь на отношениях между классами.  
 
-![ ](https://raw.githubusercontent.com/nastyouth/design-patterns/master/img/1.png)
+![ ](https://raw.githubusercontent.com/nastyouth/design-patterns/master/img/tableOne.png)
 
 Обратите внимание: большинство паттернов действуют на уровне объектов.
 
