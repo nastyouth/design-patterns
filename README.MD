@@ -129,11 +129,11 @@ protocol Creator {
     func factoryMethod() -> Product
 }
 
-clacc ConcreteCreatorA: Creator {
+class ConcreteCreatorA: Creator {
     func factoryMethod() -> Product { return ConcreteProductA() }
 }
 
-clacc ConcreteCreatorB: Creator {
+class ConcreteCreatorB: Creator {
     func factoryMethod() -> Product { return ConcreteProductB() }
 }
 
